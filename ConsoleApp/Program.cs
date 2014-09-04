@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            PrinterHelper.PrinterHelperMethod("Hello Github");
+            Console.WriteLine("Hello Github"); //This line wants to do it the old way
             PrinterHelper.PrinterHelperMethod("Lets add a new line of code here.");
             PrinterHelper.PrinterHelperMethod("We love to party!!!"); //those extra ! are necessary!
 
