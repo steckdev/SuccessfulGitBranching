@@ -12,7 +12,7 @@ namespace ConsoleApp
         {
             PrinterHelper.PrinterHelperMethod("Hello Github");
             PrinterHelper.PrinterHelperMethod("Lets add a new line of code here.");
-            PrinterHelper.PrinterHelperMethod("We love to party!");
+            PrinterHelper.PrinterHelperMethod("We love to party!!!"); //those extra ! are necessary!
 
         }
     }
