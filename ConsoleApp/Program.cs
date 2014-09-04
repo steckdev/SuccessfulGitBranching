@@ -14,6 +14,9 @@ namespace ConsoleApp
             PrinterHelper.PrinterHelperMethod("Lets add a new line of code here.");
             PrinterHelper.PrinterHelperMethod("We love to party!");
 
+            PrinterHelper.PrinterHelperMethod("Doing some more work here... " + (1 + 2));
+            PrinterHelper.PrinterHelperMethod("Looks like we have some math: " + Math.Sqrt(36));
+
         }
     }
 }
