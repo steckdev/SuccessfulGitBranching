@@ -11,6 +11,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
+            Console.WriteLine("Lets add a new line of code here.");
         }
     }
 }
